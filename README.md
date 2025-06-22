@@ -8,7 +8,7 @@
 2. [Project Structure](#project-structure)
 3. [Requirements](#requirements)
 4. [Installation](#installation)
-5. [Running the Application](#running-the-app)
+5. [Running](#running-the-app)
 
 ## Overview
 
@@ -51,7 +51,7 @@ Make sure you have the following installed:
 
 - pip install streamlit pandas webbrowser
 
-## Running the Application
+## Running
 
 - git clone https://github.com/GustavoBiscaro/streamlit_fifa_project.git
 - <strong>Para rodar localmente:</strong><br>
