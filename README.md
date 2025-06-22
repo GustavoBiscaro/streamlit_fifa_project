@@ -54,5 +54,5 @@ Make sure you have the following installed:
 ## Running
 
 - git clone https://github.com/GustavoBiscaro/streamlit_fifa_project.git
-- <strong>Para rodar localmente:</strong><br>
+- <strong>To run locally:</strong><br>
   <em>python -m streamlit run spotify.py</em>
