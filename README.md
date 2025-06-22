@@ -8,7 +8,7 @@
 2. [Project Structure](#project-structure)
 3. [Requirements](#requirements)
 4. [Installation](#installation)
-5. [Running](#running-the-app)
+5. [Running](#running)
 
 ## Overview
 
