@@ -10,7 +10,7 @@
 4. [Installation](#installation)
 5. [Running the Application](#running-the-app)
 
-## 1.Overview
+## Overview
 
 This project provides an interactive **Streamlit dashboard** to:
 
@@ -18,7 +18,7 @@ This project provides an interactive **Streamlit dashboard** to:
 - Navigate through multiple pages.
 - Display insights using charts, filters, and tables.
 
-## 2. Project Structure
+## Project Structure
 
 📦datasets
 ┣ 📜CLEAN_FIFA17_official_data.csv
@@ -34,7 +34,7 @@ This project provides an interactive **Streamlit dashboard** to:
 ┗ 📜3*⚽*teams.py
 1*🏠_home.py
 
-## 3. Requirements
+## Requirements
 
 Make sure you have the following installed:
 
@@ -47,11 +47,11 @@ Make sure you have the following installed:
   - `datetime`
   - Any other packages used in the scripts
 
-## 4. Installation
+## Installation
 
 - pip install streamlit pandas webbrowser
 
-## 5. Running the Application
+## Running the Application
 
 - git clone https://github.com/GustavoBiscaro/streamlit_fifa_project.git
 - <strong>Para rodar localmente:</strong><br>
